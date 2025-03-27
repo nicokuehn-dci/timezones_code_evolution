@@ -13,7 +13,7 @@ The first script provides basic functionality for working with timezones. It all
 Run the script and follow the prompts to input the time, source timezone, and target timezone.
 
 ```bash
-python script1.py
+python timezones.py
 ```
 
 ---
@@ -29,7 +29,7 @@ The second script improves upon the initial version by introducing support for d
 Run the script as before, but now enjoy a more robust experience with dynamic timezone support.
 
 ```bash
-python script2.py
+python timezones_gui.py
 ```
 
 ---
@@ -46,7 +46,7 @@ The final script represents the most advanced version, adding a graphical user i
 Run the script to launch the GUI and interact with the application.
 
 ```bash
-python script3.py
+python timezone_plus.py
 ```
 
 ---
